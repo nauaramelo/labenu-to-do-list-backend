@@ -190,6 +190,6 @@ npm start
 
 ## Licença 
 
-[MIT]
+[MIT](https://github.com/nauaramelo/labenu-to-do-list-backend)
 
 Copyright :copyright: 2020 - To do List
