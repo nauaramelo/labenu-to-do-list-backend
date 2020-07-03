@@ -197,6 +197,6 @@ DB_NAME =
 
 ## Licença 
 
-[MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://github.com/nauaramelo/labenu-to-do-list-backend/blob/master/LICENSE)
 
 Copyright :copyright: 2020 - To do List
