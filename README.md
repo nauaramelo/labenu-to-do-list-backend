@@ -118,22 +118,6 @@ DB_NAME =
 }
 ```
 
-:black_small_square: Editar Usuário
-
-**Método**: PUT
-
-**Path**: `/task`
-
-**Body**:
-```
-{
-	"title": "Criar o readme do projeto",
-	"description": "Devemos criar o readme dos projetos para uma melhor apresentação do projeto",
-	"limitDate": "03/07/2020",
-	"creatorUserId": "001"
-}
-```
-
 :black_small_square: Criar Tarefa
 
 **Método**: PUT
