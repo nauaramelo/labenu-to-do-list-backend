@@ -75,7 +75,7 @@ DB_NAME =
 
 :black_small_square: Criar usuário
 
-**Método**: PUT
+**Método**: POST
 
 **Path**: `/user`
 
@@ -120,7 +120,7 @@ DB_NAME =
 
 :black_small_square: Criar Tarefa
 
-**Método**: PUT
+**Método**: POST
 
 **Path**: `/task`
 
