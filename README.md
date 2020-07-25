@@ -150,8 +150,7 @@ DB_NAME =
 	"description": "Devemos criar o readme dos projetos para uma melhor apresentação do projeto",
 	"limitDate": "03/07/2020",
 	"status": "to_do",
-	"creatorUserId": "001",
-	"creatorUserNickname": "user"
+	"creatorUserId": "001"
 }
 ```
 
