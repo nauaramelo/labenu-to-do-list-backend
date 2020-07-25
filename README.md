@@ -106,7 +106,7 @@ DB_NAME =
 
 :black_small_square: Editar Usuário
 
-**Método**: POST
+**Método**: PUT
 
 **Path**: `/user/edit`
 
